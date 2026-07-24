@@ -3,7 +3,6 @@
 # 🌸 Digital Flower
 
 **A simple digital flower website made with HTML, CSS, and JavaScript.**
-
 Perfect for surprising someone with a personalized flower that never withers.
 
 <p>
@@ -19,16 +18,6 @@ Perfect for surprising someone with a personalized flower that never withers.
 
 ---
 
-# ✨ Preview
-
-> Replace the image below with your own screenshot.
-
-<p align="center">
-<img src="assets/preview.png" width="900">
-</p>
-
----
-
 # 🌐 Live Demo
 
 You can try the website here:
@@ -40,9 +29,7 @@ You can try the website here:
 # 💐 About
 
 This project is a simple digital flower website that can be shared with someone special.
-
 Instead of giving a physical flower, you can send this website as a small digital surprise. The recipient can enjoy a beautiful flower animation along with a personalized message.
-
 The project is lightweight, responsive, and built entirely with front-end technologies.
 
 ---
@@ -90,7 +77,6 @@ cd Digital-Flower
 ```
 
 Run the website
-
 Simply open:
 
 ```text
@@ -104,7 +90,6 @@ or use **Live Server** in Visual Studio Code.
 # ❤️ Personalize It
 
 Want to dedicate this flower to someone?
-
 Simply replace every occurrence of:
 
 ```text
@@ -112,7 +97,6 @@ Simply replace every occurrence of:
 ```
 
 with the name of the person you want to surprise.
-
 Example:
 
 ```text
@@ -124,10 +108,8 @@ or
 ```text
 Arum
 ```
-
 After that, save the file and enjoy your personalized digital flower.
 
----
 
 ---
 
@@ -145,7 +127,6 @@ After that, save the file and enjoy your personalized digital flower.
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are always welcome.
-
 Feel free to fork this repository and submit a pull request.
 
 ---
@@ -153,7 +134,6 @@ Feel free to fork this repository and submit a pull request.
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
-
 It helps others discover the project and motivates future improvements.
 
 ---
@@ -161,5 +141,6 @@ It helps others discover the project and motivates future improvements.
 <div align="center">
 
 Made with ❤️ using HTML, CSS & JavaScript.
+Albatany - AceBreaker
 
 </div>
