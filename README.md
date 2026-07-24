@@ -78,7 +78,7 @@ Digital-Flower/
 Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Digital-Flower.git
+git clone https://github.com/AceBreaker-Cell/Digital-Flower.git
 ```
 
 Open the project folder
