@@ -23,7 +23,6 @@ Perfect for surprising someone with a personalized flower that never withers.
 
 <p align="center">
 <img width="900" alt="Screenshot 2026-07-24 094952" src="https://github.com/user-attachments/assets/30392a4c-fa63-4874-9cdc-a168929d7c4a" />
-<img src="assets/preview.png" width="900">
 </p>
 
 ---
