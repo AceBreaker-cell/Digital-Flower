@@ -157,6 +157,7 @@ It helps others discover the project and motivates future improvements.
 <div align="center">
 
 Made with ❤️ using HTML, CSS & JavaScript.
-AceBreaker - Albatany
+
+AceBreaker - Albatany.
 
 </div>
